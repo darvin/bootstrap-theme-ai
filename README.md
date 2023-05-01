@@ -21,9 +21,6 @@ a model that generates a Bootstrap theme from screenshot
  - [ScreenSeg: On-Device Screenshot Layout Analysis](https://arxiv.org/pdf/2104.08052.pdf)
  - [Widget detection on screenshots using computer vision and machine learning algorithms](https://www.researchgate.net/publication/337065412_Widget_detection_on_screenshots_using_computer_vision_and_machine_learning_algorithms) **paywall**
  - [Improving Random GUI Testing with Image-Based Widget Detection](https://eprints.whiterose.ac.uk/145601/1/gui-component-recognition.pdf) ancient, fast algorithm
- - []()
- - []()
- - []()
- - []()
- - []()
+ - [Detecting and Summarizing GUI Changes in Evolving Mobile Apps](https://arxiv.org/pdf/1807.09440.pdf) *old but gold*
+
  
