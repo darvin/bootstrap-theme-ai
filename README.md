@@ -16,7 +16,7 @@ a model that generates a Bootstrap theme from screenshot
    - [pytorch reimplementation 3](https://github.com/timoangerer/pix2code-pytorch)
  - [Widget detection on screenshots using computer vision and machine learning algorithms](https://waseda.elsevierpure.com/en/publications/widget-detection-on-screenshots-using-computer-vision-and-machine)
  - [Pix2code2 repo](https://github.com/fjbriones/pix2code2): An attempt to improve pix2code through pretrained autoencoders
- - [Generating Webpages from Screenshots](https://github.com/Atharva-Phatak/Generating-Webpages-from-Screenshots}
+ - [Generating Webpages from Screenshots](https://github.com/Atharva-Phatak/Generating-Webpages-from-Screenshots)
  - [ScreenSeg: On-Device Screenshot Layout Analysis](https://arxiv.org/pdf/2104.08052.pdf)
  - [Widget detection on screenshots using computer vision and machine learning algorithms](https://www.researchgate.net/publication/337065412_Widget_detection_on_screenshots_using_computer_vision_and_machine_learning_algorithms) **paywall**
  - [Improving Random GUI Testing with Image-Based Widget Detection](https://eprints.whiterose.ac.uk/145601/1/gui-component-recognition.pdf) ancient, fast algorithm
