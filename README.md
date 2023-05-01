@@ -8,7 +8,6 @@ a model that generates a Bootstrap theme from screenshot
    - [huggingface](https://huggingface.co/docs/transformers/main/en/model_doc/pix2struct)
    - [repo](https://github.com/google-research/pix2struct)
  - [Automatically Generating Codes from Graphical Screenshots Based on Deep Autocoder](https://arxiv.org/pdf/2007.02272.pdf)
-
  - [Pix2Code](https://arxiv.org/abs/1705.07962)
    - [repo](https://github.com/tonybeltramelli/pix2code)
    - [demo](https://youtu.be/pqKeXkhFA3I)
